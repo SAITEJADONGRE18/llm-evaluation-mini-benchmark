@@ -1,0 +1,11 @@
+test_coding_checks (test_benchmark.BenchmarkTests.test_coding_checks) ... ok
+test_exact_json_fail (test_benchmark.BenchmarkTests.test_exact_json_fail) ... ok
+test_exact_json_pass (test_benchmark.BenchmarkTests.test_exact_json_pass) ... ok
+test_jsonl_read (test_benchmark.BenchmarkTests.test_jsonl_read) ... ok
+test_missing_response_scores_zero (test_benchmark.BenchmarkTests.test_missing_response_scores_zero) ... ok
+test_unique_items_and_count (test_benchmark.BenchmarkTests.test_unique_items_and_count) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 3.756s
+
+OK
